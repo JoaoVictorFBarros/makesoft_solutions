@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.177d7465.css",
-    "main.js": "/static/js/main.2b194a1d.js",
-    "static/media/example.jpg": "/static/media/example.7b0111850d7f5a72b0f4.jpg",
-    "static/media/example2.jpg": "/static/media/example2.0e90e5198fa7604ad5e0.jpg",
-    "static/media/logo.png": "/static/media/logo.8386f3f9a5c47bad53d3.png",
-    "static/media/customise.png": "/static/media/customise.a04d0467625567a8c2dd.png",
-    "static/media/3d-printer.png": "/static/media/3d-printer.75e32f2d69ac752c4ef0.png",
-    "static/media/modeling-3d.png": "/static/media/modeling-3d.b151375809008545744c.png",
-    "static/media/maquina-de-corte-a-laser.png": "/static/media/maquina-de-corte-a-laser.10dc95c8a7100d39f877.png",
-    "index.html": "/index.html",
-    "main.177d7465.css.map": "/static/css/main.177d7465.css.map",
-    "main.2b194a1d.js.map": "/static/js/main.2b194a1d.js.map"
+    "main.css": "/makesoft_solutions/static/css/main.177d7465.css",
+    "main.js": "/makesoft_solutions/static/js/main.e3e176e4.js",
+    "static/media/example.jpg": "/makesoft_solutions/static/media/example.7b0111850d7f5a72b0f4.jpg",
+    "static/media/example2.jpg": "/makesoft_solutions/static/media/example2.0e90e5198fa7604ad5e0.jpg",
+    "static/media/logo.png": "/makesoft_solutions/static/media/logo.8386f3f9a5c47bad53d3.png",
+    "static/media/customise.png": "/makesoft_solutions/static/media/customise.a04d0467625567a8c2dd.png",
+    "static/media/3d-printer.png": "/makesoft_solutions/static/media/3d-printer.75e32f2d69ac752c4ef0.png",
+    "static/media/modeling-3d.png": "/makesoft_solutions/static/media/modeling-3d.b151375809008545744c.png",
+    "static/media/maquina-de-corte-a-laser.png": "/makesoft_solutions/static/media/maquina-de-corte-a-laser.10dc95c8a7100d39f877.png",
+    "index.html": "/makesoft_solutions/index.html",
+    "main.177d7465.css.map": "/makesoft_solutions/static/css/main.177d7465.css.map",
+    "main.e3e176e4.js.map": "/makesoft_solutions/static/js/main.e3e176e4.js.map"
   },
   "entrypoints": [
     "static/css/main.177d7465.css",
-    "static/js/main.2b194a1d.js"
+    "static/js/main.e3e176e4.js"
   ]
 }
