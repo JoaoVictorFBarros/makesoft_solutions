@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/JoaoVictorFBarros/makesoft_solutions/static/css/main.177d7465.css",
-    "main.js": "/JoaoVictorFBarros/makesoft_solutions/static/js/main.623c2558.js",
-    "static/media/example.jpg": "/JoaoVictorFBarros/makesoft_solutions/static/media/example.7b0111850d7f5a72b0f4.jpg",
-    "static/media/example2.jpg": "/JoaoVictorFBarros/makesoft_solutions/static/media/example2.0e90e5198fa7604ad5e0.jpg",
-    "static/media/logo.png": "/JoaoVictorFBarros/makesoft_solutions/static/media/logo.8386f3f9a5c47bad53d3.png",
-    "static/media/customise.png": "/JoaoVictorFBarros/makesoft_solutions/static/media/customise.a04d0467625567a8c2dd.png",
-    "static/media/3d-printer.png": "/JoaoVictorFBarros/makesoft_solutions/static/media/3d-printer.75e32f2d69ac752c4ef0.png",
-    "static/media/modeling-3d.png": "/JoaoVictorFBarros/makesoft_solutions/static/media/modeling-3d.b151375809008545744c.png",
-    "static/media/maquina-de-corte-a-laser.png": "/JoaoVictorFBarros/makesoft_solutions/static/media/maquina-de-corte-a-laser.10dc95c8a7100d39f877.png",
-    "index.html": "/JoaoVictorFBarros/makesoft_solutions/index.html",
-    "main.177d7465.css.map": "/JoaoVictorFBarros/makesoft_solutions/static/css/main.177d7465.css.map",
-    "main.623c2558.js.map": "/JoaoVictorFBarros/makesoft_solutions/static/js/main.623c2558.js.map"
+    "main.css": "/static/css/main.177d7465.css",
+    "main.js": "/static/js/main.2b194a1d.js",
+    "static/media/example.jpg": "/static/media/example.7b0111850d7f5a72b0f4.jpg",
+    "static/media/example2.jpg": "/static/media/example2.0e90e5198fa7604ad5e0.jpg",
+    "static/media/logo.png": "/static/media/logo.8386f3f9a5c47bad53d3.png",
+    "static/media/customise.png": "/static/media/customise.a04d0467625567a8c2dd.png",
+    "static/media/3d-printer.png": "/static/media/3d-printer.75e32f2d69ac752c4ef0.png",
+    "static/media/modeling-3d.png": "/static/media/modeling-3d.b151375809008545744c.png",
+    "static/media/maquina-de-corte-a-laser.png": "/static/media/maquina-de-corte-a-laser.10dc95c8a7100d39f877.png",
+    "index.html": "/index.html",
+    "main.177d7465.css.map": "/static/css/main.177d7465.css.map",
+    "main.2b194a1d.js.map": "/static/js/main.2b194a1d.js.map"
   },
   "entrypoints": [
     "static/css/main.177d7465.css",
-    "static/js/main.623c2558.js"
+    "static/js/main.2b194a1d.js"
   ]
 }
