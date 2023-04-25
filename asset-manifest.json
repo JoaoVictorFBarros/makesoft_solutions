@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/makesoft_solutions/static/css/main.8a79eb99.css",
-    "main.js": "/makesoft_solutions/static/js/main.4d0a7e25.js",
+    "main.js": "/makesoft_solutions/static/js/main.cb841095.js",
     "static/media/example.jpg": "/makesoft_solutions/static/media/example.7b0111850d7f5a72b0f4.jpg",
     "static/media/example2.jpg": "/makesoft_solutions/static/media/example2.0e90e5198fa7604ad5e0.jpg",
     "static/media/logo.png": "/makesoft_solutions/static/media/logo.8386f3f9a5c47bad53d3.png",
@@ -11,10 +11,10 @@
     "static/media/maquina-de-corte-a-laser.png": "/makesoft_solutions/static/media/maquina-de-corte-a-laser.10dc95c8a7100d39f877.png",
     "index.html": "/makesoft_solutions/index.html",
     "main.8a79eb99.css.map": "/makesoft_solutions/static/css/main.8a79eb99.css.map",
-    "main.4d0a7e25.js.map": "/makesoft_solutions/static/js/main.4d0a7e25.js.map"
+    "main.cb841095.js.map": "/makesoft_solutions/static/js/main.cb841095.js.map"
   },
   "entrypoints": [
     "static/css/main.8a79eb99.css",
-    "static/js/main.4d0a7e25.js"
+    "static/js/main.cb841095.js"
   ]
 }
