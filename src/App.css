@@ -1,0 +1,26 @@
+body {
+  min-height: 100%;
+  margin: 0;
+  font-family: 'Merriweather';
+  line-height: 150%;
+  font-size: large;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  text-align: center;
+}
+
+body::-webkit-scrollbar{
+  width: 0.5em;
+}
+
+body::-webkit-scrollbar-thumb{
+  background-color: #8F9F9B;
+  border-radius: 2em;
+}
+
+body::-webkit-scrollbar-track{
+  background: #EBE3D6
+}

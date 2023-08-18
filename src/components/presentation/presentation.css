@@ -1,0 +1,34 @@
+.presentation{
+    padding: 2em;
+    border: solid thin;
+    background-color: #16472A;
+    color: white;
+}
+
+.presentation .text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mobilepresentation{
+    padding: 1em 2em;
+    margin: 0vh 2vh;
+    border-radius: 0.5em;
+    border: solid thin;
+    background-color: #16472A;
+    color: white;
+}
+
+.presentation h2{
+    font-weight: normal;
+}
+
+.presentation .textbody{
+    padding: 0 2em;
+    width: 40%;
+}
+
+.presentation p{
+    text-align: justify;
+}

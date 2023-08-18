@@ -1,0 +1,45 @@
+.iconsdescription .descriptionsrow{
+    display: flex;
+    justify-content: center;
+}
+
+.iconsdescription .servicesdescription{
+    padding: 2em 1em 1em 2em;
+    border-radius: 0.5em;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.iconsdescription .servicesdescription p{
+    text-align: left;
+}
+
+.iconsdescription .servicesdescription h4{
+    text-align: left;
+}
+
+.iconsdescription .descriptionsrow{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+.iconsdescription .description{
+    margin: 0 5%;
+    display: flex;
+    align-items:center;
+}
+
+.iconsdescription .descriptionbox{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.iconsdescription .description img{
+    margin: 2em;
+    max-width: 10%;
+}

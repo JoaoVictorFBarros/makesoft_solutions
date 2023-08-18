@@ -1,0 +1,26 @@
+.footer{
+    background-color: #D6CEC1;
+    display: flex;
+    justify-content: space-between;
+    padding: 1em 2em;
+    text-align: left;
+}
+
+.footer h4{
+    font-size: larger;
+    border-top: solid thin;
+    border-bottom: solid thin;
+}
+
+.mobilefooter{
+    background-color: #D6CEC1;
+    display: flex;
+    justify-content: center;
+    padding: 1em 2em;
+    text-align: center;
+    font-size: medium;
+}
+
+.mobilefooter h4{
+    font-size: medium;
+}

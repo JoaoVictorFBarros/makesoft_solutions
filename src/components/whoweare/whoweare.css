@@ -1,0 +1,22 @@
+.whoweare{
+    background-color: #EBE3D6;
+    padding-bottom: 2em;
+    
+}
+
+.whoweare .subheader{
+    color: white;
+    text-decoration: none;
+    margin: 1em;
+    padding: 0.5em  1em;
+    cursor: pointer;
+    transition: 400ms;
+    border-radius: 1.5em;
+    background-color: #16472A;
+    font-size: x-large;
+    transition: 500ms;
+}
+
+.whoweare .subheader:hover{
+    background-color: #8F9F9B;
+}

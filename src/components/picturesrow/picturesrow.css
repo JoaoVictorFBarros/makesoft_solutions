@@ -1,0 +1,82 @@
+.picturesrow{
+    margin-top: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.picturesrow .pictures-container{
+    padding: 0.2em;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    max-width: 90%;
+    overflow: hidden;
+    padding: 2em 0;
+}
+
+.picturesrow .pictures-subcontainer{
+    display: flex;
+}
+
+.picturesrow h2{
+    font-weight: normal;
+}
+
+.picturesrow .picture{
+    border-radius: 1em;
+    margin: 0em 2em;
+    height: 25em;
+    transition: 300ms;
+}
+
+.picturesrow .picture:hover{
+    transform: scale(1.05);
+}
+
+.picturesrow .mobilepicture{
+    height: 12em;
+    margin: 0em 1em;
+    border-radius: 0.5em;
+}
+
+.picturesrow .arrowicon{
+    transform: scale(200%);
+    cursor: pointer;
+    padding: 0.5em;
+    border-radius: 0.3em;
+    transition: 300ms;
+    color:#273f32;
+
+}
+
+.picturesrow .arrowicon:hover{
+    color:#8F9F9B;
+}
+
+.picturesrow .mobilearrowicon{
+    color: white;
+    transform: scale(200%);
+    cursor: pointer;
+    margin: -2em;
+    border-radius: 0.125em;
+    z-index: 1;
+}
+
+.picturesrow .mobilearrowicon:hover{
+    color:#8F9F9B;
+}
+
+.pictures-container::-webkit-scrollbar{
+    width: 0.5em;
+  }
+  
+.pictures-container::-webkit-scrollbar-thumb{
+    background-color: #8F9F9B;
+    border-radius: 2em;
+  }
+  
+.pictures-container::-webkit-scrollbar-track{
+    background: white
+  }

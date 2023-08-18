@@ -1,0 +1,103 @@
+.services .servicesrow{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 1em;
+    background-color: white;
+
+}
+
+.services .mobileservicesrow{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: -2.25em;
+}
+
+.services .serviceicon{
+    width: 10em;
+}
+
+.services .subheader{
+    color: white;
+    text-decoration: none;
+    margin: 1em;
+    padding: 0.5em  1em;
+    margin-right: 10em;
+    cursor: pointer;
+    transition: 400ms;
+    border-radius: 1.5em;
+    background-color: #16472A;
+    transition: 500ms;
+}
+
+.services .subheader:hover{
+    color: black;
+    background-color: #EBE3D6;
+}
+
+.services li{
+    max-width: min-content;
+    list-style-type: none;
+    cursor: pointer;
+    padding-top: 2em;
+}
+
+.services li img{
+    transition: 400ms;
+}
+
+.services li img:hover{
+    transform: scale(110%);
+}
+
+.services h2{
+    font-weight: normal;
+}
+
+.services h3{
+    font-weight: normal;
+    font-size:xx-large;
+}
+
+.services h4{
+    font-weight: normal;
+}
+
+.services .servicesbackground{
+    background-color: #EBE3D6;
+    padding: 2em 1em 1em 2em;
+}
+
+.services .servicessubheader{
+    background-color: #8F9F9B;
+    padding: 0.5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2em;
+    border-top-left-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+    color: white;
+    font-size: x-large;
+}
+
+.services .mobileservicessubheader{
+    background-color: #8F9F9B;
+    padding: 0.5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2em;
+    border-top-left-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+    color: white;
+    font-size: large;
+}
+
+.services .servicessubheader a{
+    margin:0
+}
+
+.services .mobileservicessubheader a{
+    margin:0
+}
