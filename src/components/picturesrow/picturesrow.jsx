@@ -9,15 +9,23 @@ import picture4 from "../../images/image1.jpeg"
 
 const pictures = [picture1,picture2,picture3,picture4]
 const scrollrate = 20
+var minoffset = -100
 
 export default function Picturesrow(props) {
+
+    if (props.mobile){
+        minoffset = -50
+    }
+    else{
+        minoffset = -100
+    }
 
     var [picoffset, setpicoffset] = useState(0)
 
     function handlerightarrowclick() {
 
-        if (picoffset <= -100){
-            setpicoffset(-100)
+        if (picoffset <= minoffset){
+            setpicoffset(minoffset)
         }
         else{
             setpicoffset(picoffset - scrollrate)

@@ -4,9 +4,8 @@
 }
 
 .iconsdescription .servicesdescription{
-    padding: 2em 1em 1em 2em;
+    padding: 2em 0.5em;
     border-radius: 0.5em;
-
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -24,7 +23,6 @@
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-
 }
 
 .iconsdescription .description{
@@ -36,7 +34,6 @@
 .iconsdescription .descriptionbox{
     display: flex;
     flex-direction: column;
-
 }
 
 .iconsdescription .description img{
