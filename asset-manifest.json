@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/makesoft_solutions/static/css/main.84e14676.css",
+    "main.css": "/makesoft_solutions/static/css/main.571363cd.css",
     "main.js": "/makesoft_solutions/static/js/main.cf6c9aab.js",
     "static/media/image0.jpeg": "/makesoft_solutions/static/media/image0.371e5845ae36556855e5.jpeg",
     "static/media/image1.jpeg": "/makesoft_solutions/static/media/image1.488603af70e29af29f32.jpeg",
@@ -14,11 +14,11 @@
     "static/media/hand.png": "/makesoft_solutions/static/media/hand.70af90f761164a079afd.png",
     "static/media/graphic.png": "/makesoft_solutions/static/media/graphic.0e40c252cb595a81f073.png",
     "index.html": "/makesoft_solutions/index.html",
-    "main.84e14676.css.map": "/makesoft_solutions/static/css/main.84e14676.css.map",
+    "main.571363cd.css.map": "/makesoft_solutions/static/css/main.571363cd.css.map",
     "main.cf6c9aab.js.map": "/makesoft_solutions/static/js/main.cf6c9aab.js.map"
   },
   "entrypoints": [
-    "static/css/main.84e14676.css",
+    "static/css/main.571363cd.css",
     "static/js/main.cf6c9aab.js"
   ]
 }
